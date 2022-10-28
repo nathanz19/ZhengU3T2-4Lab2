@@ -16,7 +16,6 @@ public class CatHouseRunner {
 
 
         // TASK 4: COMPLETE TEST CASES: uncomment the code below to fully test
-/*
     System.out.println("------- Test set 1 -------");
     Cat garfield = new Cat("Garfield", 5);
     Cat crookshanks = new Cat("Crookshanks", 6);
@@ -71,6 +70,5 @@ public class CatHouseRunner {
     sameCats.rollCall();
 
     sameCats.catNoise();
- */
     }
 }
